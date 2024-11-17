@@ -1,0 +1,9 @@
+{
+    "name": "chrome-cookie-retriever",
+    "version": "1.0.0",
+    "dependencies": [
+        "sqlite3",
+        "curl",
+        "nlohmann-json"
+    ]
+}
